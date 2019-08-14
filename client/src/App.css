@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  float: left;
+  width: 50%;
+}
+
+.favs {
+  float: right;
+  width: 50%;
+}
